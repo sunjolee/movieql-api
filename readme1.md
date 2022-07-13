@@ -68,6 +68,9 @@ rest api의 단점 2가지를 보완
 
 # 4.1 Query Type (08:50)
 
+실행
+npm run dev
+
 # 4.2 Scalar and Root Types (10:06)
 
 # 4.3 Mutation Type (09:22)
