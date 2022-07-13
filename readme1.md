@@ -77,6 +77,8 @@ npm run dev
 
 # 4.4 Non Nullable Fields (07:25)
 
+! 느낌표를 주면 필수로 입력하거나 필수로 리턴해 준다는 의미
+
 # 4.5 Recap (07:02)
 
 # 4.6 Query Resolvers (11:36)
