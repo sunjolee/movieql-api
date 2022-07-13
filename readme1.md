@@ -81,6 +81,20 @@ npm run dev
 
 # 4.5 Recap (07:02)
 
+* type Query - GET Request
+
+  graphql 서버에서 type Query는 가장 기본 type이고 required type이다
+
+  user가 request 할 수 있는 것들이 된다.
+
+* Mutation - POST DELETE PUT PATCH Request
+
+  API와 소통할 수 있게 해 준다.
+
+  DATABASE에 영향을 준다.
+
+* ! (느낌표) : 사용하지 않는다면 nullable field 사용하면 not null field
+ 
 # 4.6 Query Resolvers (11:36)
 
 # 4.7 Mutation Resolvers (09:11)
