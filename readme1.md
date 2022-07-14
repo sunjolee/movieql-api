@@ -97,6 +97,8 @@ npm run dev
  
 # 4.6 Query Resolvers (11:36)
 
+![img_1.png](img_1.png)
+
 # 4.7 Mutation Resolvers (09:11)
 
 # 4.8 Type Resolvers (08:51)
